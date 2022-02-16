@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Rails-React
+# Hello Rails Back-End
 
 > Hello World project usign RoR and React, this is the Back-End for this project
 
